@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blicanta.github.io/sitemap.txt.gz
+Sitemap: https://blicanta.github.io/app/sitemap.txt.gz
+Sitemap: https://blicanta.github.io/assets/sitemap.txt.gz
+Sitemap: https://blicanta.github.io/css/sitemap.txt.gz
+Sitemap: https://blicanta.github.io/includes/sitemap.txt.gz
+Sitemap: https://blicanta.github.io/item/sitemap.txt.gz
+Sitemap: https://blicanta.github.io/src/sitemap.txt.gz
